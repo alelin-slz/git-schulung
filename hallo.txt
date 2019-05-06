@@ -1,3 +1,4 @@
 Hallo, ich nehme an einer Git-Schulung teil.
 Ich auch.
 Ich habe keinen Pull durchgeführt, aber versuche jetzt mal zu pushen.
+Theresa Boguth
