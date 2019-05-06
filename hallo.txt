@@ -5,3 +5,4 @@ Theresa Boguth
 Editieren im neuen Branch -> Zeile 5 editiert
 Jetzt auch noch ein Feature Branch -> Zeile 6 für develop
 Edit für Rebase
+Edit für Rebase conflict
