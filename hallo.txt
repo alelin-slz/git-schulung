@@ -2,5 +2,5 @@ Hallo, ich nehme an einer Git-Schulung teil.
 Ich auch.
 Ich habe keinen Pull durchgeführt, aber versuche jetzt mal zu pushen.
 Theresa Boguth
-Editieren im neuen Branch
+Editieren im neuen Branch -> Zeile 5 editiert
 Jetzt auch noch ein Feature Branch
